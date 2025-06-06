@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Portfólio Pessoal de Matheus Teodoro
 
-First, run the development server:
+Olá! 👋
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Sou **Matheus Teodoro**, desenvolvedor **front-end** com paixão por criar interfaces responsivas e eficientes. Atualmente, trabalho na sede da **Sicredi Dexis** em **Maringá, PR**, onde continuo a aprimorar minhas habilidades e colaborar em projetos inovadores.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este portfólio reúne alguns dos meus principais projetos, refletindo minhas experiências e a qualidade do meu trabalho.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## O Que Você Vai Encontrar Aqui
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Projetos Front-End**: Interfaces e aplicações web que desenvolvi utilizando as melhores práticas e tecnologias.
+- **Tecnologias Usadas**: HTML, CSS, JavaScript, React, TypeScript, NextJS, reac-loaders, react-toastify e mais.
+- **Links para Repositórios**: Explore o código-fonte no GitHub e veja como implementei as soluções.
 
-## Learn More
+## Contato
 
-To learn more about Next.js, take a look at the following resources:
+Estou sempre aberto a novas oportunidades e colaborações. Vamos conversar!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 📧 **Email:** [matheusteodoro200@gmail.com]
+- 🌐 **LinkedIn:** [https://www.linkedin.com/in/matheus-teodoro-a901211ba/)LinkedIn]
+- 💻 **GitHub:** [teodorogit]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Licença
 
-## Deploy on Vercel
+Este portfólio está disponível sob a licença [Tipo de Licença, ex: MIT]. Sinta-se à vontade para explorar e modificar os projetos, dando o devido crédito.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+>>>>>>> bfd84ba044e0d9060fb65bae8af09c2237349e87
