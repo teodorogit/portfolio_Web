@@ -6,7 +6,7 @@ interface contentProp {
 
 const Message = ({ content }: contentProp) => {
     return (
-        <div className="flex justify-center items-center font-Nunito text-gray-800  text-3xl w-screen py-6">
+        <div className="flex justify-center items-center font-Nunito text-gray-800  text-3xl w-screen py-6 dark:text-white">
             <p>{content}</p>
         </div>
     );

@@ -30,32 +30,8 @@ export default function App() {
                     <p className="font-bold text-inherit">PORTFOLIO </p>
                 </NavbarBrand>
                 <NavbarContent className="hidden sm:flex gap-4 md:flex-row sm:flex-col" justify="center">
-                    <NavbarItem>
-                        <Link
-                            className=" text-slate-800 dark:text-white"
-                            target="_blank"
-                            href="https://github.com/teodorogit?tab=repositories"
-                        >
-                            Github Projects
-                        </Link>
-                    </NavbarItem>
                     <NavbarItem isActive></NavbarItem>
-                    <NavbarItem>
-                        <Dropdown>
-                            <DropdownTrigger>
-                                <Button className=" text-slate-800 border-0 bg-transparent  dark:text-slate-200">
-                                    Social Medias
-                                </Button>
-                            </DropdownTrigger>
-                            <DropdownMenu aria-label="Static Actions">
-                                <DropdownItem key="new">LinkedIn</DropdownItem>
-                                <DropdownItem key="copy" href="https://www.tabnews.com.br/teodorogit/conteudos/1">
-                                    TabNews
-                                </DropdownItem>
-                                <DropdownItem key="edit">Instagram</DropdownItem>
-                            </DropdownMenu>
-                        </Dropdown>
-                    </NavbarItem>
+                    <NavbarItem></NavbarItem>
                 </NavbarContent>
                 <NavbarContent justify="end">
                     <NavbarItem className="hidden lg:flex">

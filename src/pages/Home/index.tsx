@@ -11,7 +11,9 @@ const Home = () => {
     return (
         <main className="flex flex-col md:grid md:grid-cols-2 md:px-56 gap-6">
             <div className="overflow-hidden items-center px-20  w-[100%] md:w-[100%] flex flex-col py-4   justify-center">
-                <p className=" text-2xl md:text-8x1 text-gray-600/60 ">Welcome, i am Matheus Teodoro </p>
+                <p className=" text-2xl md:text-8x1 text-gray-600/90 dark:text-white ">
+                    Welcome, i am Matheus Teodoro{' '}
+                </p>
                 <p className="  md:text-3xl">
                     This website was developed by me, here you can learn more about my professional and personal side.
                 </p>{' '}
